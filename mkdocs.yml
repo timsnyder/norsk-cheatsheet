@@ -1,0 +1,16 @@
+site_name: Norsk Cheat Sheet
+site_description: A living Norwegian Bokmål grammar and vocabulary reference
+site_url: https://timsnyder.github.io/norsk-cheatsheet/
+repo_url: https://github.com/timsnyder/norsk-cheatsheet
+theme:
+  name: mkdocs
+nav:
+  - Home: index.md
+  - Grammar: grammar.md
+  - Verbs: verbs.md
+  - Phrases: phrases.md
+  - Vocabulary: vocabulary.md
+  - Confusing pairs: confusing-pairs.md
+  - Pronunciation: pronunciation.md
+  - Numbers: numbers.md
+strict: true
