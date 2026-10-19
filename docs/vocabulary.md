@@ -13,7 +13,8 @@
 | anerkjent | recognized / respected | Often describes reputation |
 | å prøve | to try | `prøver, prøvde, prøvd` |
 | skatt | treasure | Also an affectionate term |
-| norsk skogkatt | Norwegian Forest Cat | Standard spelling |
+| norsk skogkatt | Norwegian Forest Cat | Standard breed spelling |
+| skogskatt | forest treasure | Playful compound: `skog` + `skatt` |
 | smør | butter | Neuter noun |
 | morsmål | native language / mother tongue | Neuter noun |
 | gjennom | through | Preposition |
@@ -22,6 +23,15 @@
 | flink | skilled / good at something | Adjective |
 | taus | silent | Adjective |
 | forvirret | confused | Adjective |
+
+## The forest-cat / forest-treasure pun
+
+- **skog + katt = skogkatt** — forest cat, including the Norwegian Forest Cat.
+- **skog + skatt = skogskatt** — forest treasure, a playful coined compound.
+
+The single extra **s** transforms **katt** (cat) into **skatt** (treasure).
+The original T-shirt artwork mistakenly added one extra **s** to *both* labels.
+The corrected design uses **skogkatt** on the front and **skogskatt** on the back.
 
 ## Word formation
 
