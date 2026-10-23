@@ -12,6 +12,7 @@
 | Jeg kommer til å savne deg. | I'm going to miss you. | Expected future |
 | Jeg kommer alltid til å savne deg. | I will always miss you. | Future + `alltid` |
 | Jeg kommer til å savne deg for alltid. | I'll miss you forever. | `for alltid` |
+| Ute på tur, aldri sur! | Out on a hike, never grumpy! | Rhyming Norwegian saying about enjoying the outdoors; elliptical expression |
 
 **Går det bra med deg?** is often more concerned than the general greeting
 **Hvordan har du det?** Context and tone matter.
