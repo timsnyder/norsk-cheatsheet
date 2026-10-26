@@ -16,6 +16,7 @@
 | Å ta seg vann over hodet | To get in over one's head / bite off more than one can chew | Idiom; `Jeg har tatt meg vann over hodet` = I've gotten in over my head |
 | Det er plankekjøring! | It's a piece of cake! | Informal expression for something very easy |
 | Det koster å være kar. | It costs to be a big shot / Keeping up appearances isn't cheap. | Saying about the expense of living stylishly or maintaining status; often humorous |
+| Man skal yte for å nyte. | You have to put in effort to enjoy the rewards. | Proverb; `yte` = contribute / make an effort, `nyte` = enjoy |
 
 **Går det bra med deg?** is often more concerned than the general greeting
 **Hvordan har du det?** Context and tone matter.
