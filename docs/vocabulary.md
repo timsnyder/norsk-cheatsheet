@@ -26,6 +26,7 @@
 | flink | skilled / good at something | Adjective |
 | taus | silent | Adjective |
 | forvirret | confused | Adjective |
+| slukøret | crestfallen / dejected | Adjective; often describes someone looking disappointed or downcast |
 
 ## The forest-cat / forest-treasure pun
 
