@@ -19,6 +19,7 @@
 | morsmål | native language / mother tongue | Neuter noun |
 | friluftsliv | outdoor life / enjoyment of nature | Favorite; `fri` + `luft` + `liv` |
 | plankekjøring | a piece of cake / easy as pie | Favorite; informal noun for something very easy |
+| belønning (en) | reward | Favorite; sounds like English “bologna” — a silly memory hook |
 | gjennom | through | Preposition |
 | videre | further / onward | Adverb |
 | frisk | healthy / fresh | Adjective |
