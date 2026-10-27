@@ -18,6 +18,8 @@
 | Det koster å være kar. | It costs to be a big shot / Keeping up appearances isn't cheap. | Saying about the expense of living stylishly or maintaining status; often humorous |
 | Man skal yte for å nyte. | You have to put in effort to enjoy the rewards. | Proverb; `yte` = contribute / make an effort, `nyte` = enjoy |
 
+| Hvorfor sitte inne når alt håp er ute? | Why stay inside when all hope is lost? | Dark wordplay: `ute` means “outside,” while `alt håp er ute` means “all hope is lost”; infinitive `sitte` is natural here |
+
 **Går det bra med deg?** is often more concerned than the general greeting
 **Hvordan har du det?** Context and tone matter.
 
