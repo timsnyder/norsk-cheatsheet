@@ -8,6 +8,7 @@ A living, source-controlled Norwegian Bokmål grammar and vocabulary reference.
 - [Verbs](docs/verbs.md) — conjugations, modal verbs, and **å prøve**
 - [Phrases](docs/phrases.md) — everyday expressions, including "Are you OK?"
 - [Vocabulary](docs/vocabulary.md) — common words and useful word families
+- [Intensifiers](docs/intensifiers.md) — emphasis, slang prefixes, and register
 - [Confusing pairs](docs/confusing-pairs.md) — similar-looking words
 - [Pronunciation](docs/pronunciation.md) — sounds and spelling
 - [Numbers](docs/numbers.md) — cardinals and ordinals
