@@ -17,6 +17,7 @@
 | Det er plankekjøring! | It's a piece of cake! | Informal expression for something very easy |
 | Det koster å være kar. | It costs to be a big shot / Keeping up appearances isn't cheap. | Saying about the expense of living stylishly or maintaining status; often humorous |
 | Man skal yte for å nyte. | You have to put in effort to enjoy the rewards. | Proverb; `yte` = contribute / make an effort, `nyte` = enjoy |
+| Med vilje | On purpose / intentionally | Adverbial expression; `Jeg gjorde det med vilje` = I did it on purpose |
 
 | Hvorfor sitte inne når alt håp er ute? | Why stay inside when all hope is lost? | Dark wordplay: `ute` means “outside,” while `alt håp er ute` means “all hope is lost”; infinitive `sitte` is natural here. Joke by [Andreas of SimplyNorsk](https://youtube.com/@simplynorsk?si=scvZdW1zwp5BzVlL) ([source video](https://youtu.be/4fGQpz12agE?is=P3cFBIN7aWWRMAG8)) |
 
