@@ -29,6 +29,19 @@
 | nydelig | lovely / beautiful / delightful | Adjective; related to `å nyte` (to enjoy); e.g. `For en nydelig dag!` |
 | slukøret | crestfallen / dejected | Adjective; often describes someone looking disappointed or downcast |
 
+## Slang: lættis
+
+**lættis** means **funny / hilarious** in informal slang. It can also be a noun
+meaning **a fit of laughter**, especially in **å få lættis**.
+
+- **Det er lættis!** — That’s hilarious!
+- **Jeg fikk lættis.** — I got the giggles / burst out laughing.
+
+Casual slang; not a swear word. Use **morsomt** in more neutral language.
+
+Sources: [NAOB: adjective](https://naob.no/ordbok/lættis_2),
+[NAOB: noun](https://naob.no/ordbok/lættis_1).
+
 ## The forest-cat / forest-treasure pun
 
 - **skog + katt = skogkatt** — forest cat, including the Norwegian Forest Cat.
