@@ -26,8 +26,14 @@
 | flink | skilled / good at something | Adjective |
 | taus | silent | Adjective |
 | forvirret | confused | Adjective |
-| nydelig | lovely / beautiful / delightful | Adjective; related to `å nyte` (to enjoy); e.g. `For en nydelig dag!` |
-| slukøret | crestfallen / dejected | Adjective; often describes someone looking disappointed or downcast |
+| nydelig | lovely / beautiful / delightful | Adjective; see notes below |
+| slukøret | crestfallen / dejected | Adjective; see notes below |
+
+## Adjective notes
+
+**nydelig** is related to **å nyte** (to enjoy). Example: **For en nydelig dag!**
+
+**slukøret** often describes someone looking disappointed or downcast.
 
 ## The forest-cat / forest-treasure pun
 
