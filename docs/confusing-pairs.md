@@ -13,6 +13,7 @@
 | mot | imot | Toward / against / courage vs. against |
 | vite | kjenne | Know a fact vs. know / be familiar with |
 | gå | dra | Go / walk vs. travel / leave |
+| genser / genseren | grense / grensa | Sweater / the sweater vs. border / the border; *grensa* is the definite form of *grense* |
 
 **Alltid** and **bestandig** are often interchangeable. Depending on speaker, dialect,
 and context, **bestandig** can feel more conversational, traditional, or emphatic.
