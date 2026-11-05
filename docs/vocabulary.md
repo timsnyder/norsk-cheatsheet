@@ -28,6 +28,8 @@
 | forvirret | confused | Adjective |
 | nydelig | lovely / beautiful / delightful | Adjective; related to `å nyte` (to enjoy); e.g. `For en nydelig dag!` |
 | slukøret | crestfallen / dejected | Adjective; often describes someone looking disappointed or downcast |
+| trøst (en) | comfort / consolation / solace | Noun; e.g. `Jeg finner trøst i musikken.` (I find comfort in music) |
+| å trøste | to comfort / console | Verb related to `trøst` |
 
 ## The forest-cat / forest-treasure pun
 
